@@ -1,0 +1,33 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+  html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td, tr { margin: 0; padding: 0.1em; }
+
+  p
+  {
+	text-indent: 1.5em;
+  }
+
+  p.title
+  {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 5em;
+  }
+
+  p.headline
+  {
+	text-indent: 1.5em;
+	font-weight: bold;
+	margin-top: 1.5em;
+  }
+
+  p.chapter
+  {
+	text-indent: 1.5em;
+	page-break-before: always;
+	font-weight: bold;
+	margin-top:5em;
+	margin-bottom:2em;
+  }</style>
+    <p>stuff</p>
+</html>
